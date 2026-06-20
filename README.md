@@ -49,14 +49,14 @@ Here is the neural network architecture designed for the Keyword Spotting (KWS) 
 ## Results & Artifacts
 
 * **Model Performance:** The trained KWS model achieved high accuracy and robust convergence during training and validation, as demonstrated by the evaluation metrics (Confusion Matrix and Loss/Accuracy curves).
-<img width="1290" height="764" alt="PHOTO-2026-06-04-20-42-30 (2)" src="https://github.com/user-attachments/assets/7a72cc88-ceaa-4a46-aa35-8b1ac672297e" />
-<img width="1290" height="699" alt="PHOTO-2026-06-04-20-42-30 (1)" src="https://github.com/user-attachments/assets/539d824d-8dc9-4aac-a574-56b779ec48e7" />
+<img width="1903" height="1059" alt="Screenshot 2026-06-04 154503" src="https://github.com/user-attachments/assets/d3d602de-998e-4cce-b252-f398d3e8670a" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-04 154646" src="https://github.com/user-attachments/assets/7178f7fb-d992-40b1-a88b-4b5a9bd30fdc" />
 
 
 ### 📂 Project Documentation
 * **Project Presentation:** [Download/View Presentation PDF](./documents/presentation.pdf)
   
-* **Project Poster:** [Download/View Poster PDF](./documents/poster.pdf)
+* **Project Poster:** [Download/View Poster PDF](poster.pdf)
   
 * **Video Demonstration:**
   https://drive.google.com/file/d/1hmwNn0QASMDEc8QMWpB2e99zIvRB3RI-/view?usp=drivesdk
