@@ -54,7 +54,7 @@ Here is the neural network architecture designed for the Keyword Spotting (KWS) 
 
 
 ### 📂 Project Documentation
-* **Project Presentation:** [Download/View Presentation PDF](./documents/presentation.pdf)
+* **Project Presentation:** [Download/View Presentation PDF](presentation.pdf)
   
 * **Project Poster:** [Download/View Poster PDF](poster.pdf)
   
